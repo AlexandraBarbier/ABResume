@@ -749,7 +749,7 @@ h2.contact-title {
   font-weight: 600;
   text-transform: uppercase;
   margin-top: 0.8vw;
-  font-family: Soleil !important;
+  /* font-family: Soleil !important; */
 }
 
 .arrow {
