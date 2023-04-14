@@ -212,7 +212,7 @@ footer .center h3 {
 
 /*----*/
 #hero-s {
-  min-height: 100vw;
+  min-height: 125vw;
   padding: 15vw 10vw;
   flex-direction: column;
   padding-top: 25vw;
