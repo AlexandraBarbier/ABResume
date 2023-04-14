@@ -748,7 +748,7 @@ html {
 .s-tarifs h4,
 h2.contact-title {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 400;
   text-transform: uppercase;
   margin-top: 0.8vw;
   /* font-family: Soleil !important; */
@@ -775,4 +775,10 @@ section#hero-s {
 .arrow-wrap {
   border: 2px solid #fffef4;
   border-radius: 50%;
+}
+.hero-profil {
+  font-size: 16px;
+  margin-top: 6vw;
+  font-weight: 300;
+  line-height: 21px;
 }
