@@ -75,7 +75,7 @@ header nav {
 .menu span,
 .hover--link span {
   color: #fff;
-  font-size: 15px;
+  font-size: 12px;
   transition: 0.5s;
   font-weight: 400;
   will-change: transform;
@@ -769,8 +769,8 @@ h2.contact-title {
 }
 
 section#hero-s {
-  background: #1f2227;
-  color: #fffef4 !important;
+  background: #fcf8f6;
+  color: #1f2227 !important;
 }
 .arrow-wrap {
   border: 2px solid #fffef4;
