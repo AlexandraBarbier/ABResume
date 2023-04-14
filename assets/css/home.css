@@ -212,11 +212,12 @@ footer .center h3 {
 
 /*----*/
 #hero-s {
-  height: 100%;
+  min-height: 100vw;
   padding: 15vw 10vw;
   flex-direction: column;
+  padding-top: 25vw;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   align-content: center;
   position: relative;
