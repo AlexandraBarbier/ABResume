@@ -212,7 +212,7 @@ footer .center h3 {
 
 /*----*/
 #hero-s {
-  min-height: 125vw;
+  min-height: 100vw;
   padding: 15vw 10vw;
   flex-direction: column;
   padding-top: 25vw;
@@ -769,8 +769,8 @@ h2.contact-title {
 }
 
 section#hero-s {
-  background: #fcf8f6;
-  color: #1f2227 !important;
+  background: #1f2227;
+  color: #f1f1f1 !important;
 }
 .arrow-wrap {
   border: 2px solid #fffef4;
